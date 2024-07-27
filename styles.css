@@ -8,23 +8,4 @@ body {
     background-color: #17153B;
 }
 
-.social-buttons {
-    margin-top: 20px;
-}
-
-.button {
-    display: inline-block;
-    margin: 10px;
-    padding: 10px 20px;
-    font-size: 16px;
-    color: #C8ACD6;
-    background-color: #2E236C;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-}
-
-.button:hover {
-    background-color: #433D8B;
-}
 
