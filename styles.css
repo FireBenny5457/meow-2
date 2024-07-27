@@ -12,11 +12,6 @@ body {
     text-align: center;
 }
 
-hr.rounded {
-  border-top: 8px solid #bbb;
-  border-radius: 5px;
-}
-
 .social-buttons {
     margin-top: 20px;
 }
@@ -36,3 +31,4 @@ hr.rounded {
 .button:hover {
     background-color: #433D8B;
 }
+
